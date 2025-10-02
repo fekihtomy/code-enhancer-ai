@@ -12,7 +12,7 @@ public class EnhancerApp {
     private static final Logger logger = LoggerFactory.getLogger(EnhancerApp.class);
 
     public static void main(String[] args) {
-        logger.info("Démarrage de Code Enhancer v1.0.2");
+        logger.info("Démarrage de Code Enhancer v1.0.1");
 
         if (args.length != 1) {
             logger.error("Usage : java -jar code-enhancer-ai.jar <GitHub-URL>");
