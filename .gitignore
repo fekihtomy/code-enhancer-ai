@@ -1,0 +1,7 @@
+target/
+*.log
+*.class
+*.jar
+output/
+prompts.txt
+responses.txt
